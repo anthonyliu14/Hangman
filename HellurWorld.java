@@ -9,5 +9,9 @@ public class HellurWorld {
 		System.out.println("Hellur " + name);
 
 	}
+	
+	public static void hyuksABitch() {
+		System.out.println("God damn Hyuk what a bitch."
+	}
 
 }
